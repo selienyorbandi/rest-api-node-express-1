@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "date": "2023-01-01",
+    "weather": "rainy",
+    "comment": "Pretty nice flight.",
+    "visibility": "good"
+  },
+  {
+    "id": 2,
+    "date": "2023-01-02",
+    "weather": "stormy",
+    "comment": "Scary flight, I'm glad I'm alive",
+    "visibility": "very bad"
+  },
+  {
+    "id": 3,
+    "date": "2023-01-03",
+    "weather": "sunny",
+    "comment": "Everything went well. I'm learning much",
+    "visibility": "great"
+  }
+]
